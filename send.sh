@@ -1,0 +1,1 @@
+jekyll build && scp -r _site/* root@138.197.137.181:/var/www/blog/
